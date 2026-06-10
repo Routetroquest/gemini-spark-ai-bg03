@@ -1,4 +1,4 @@
-# 
+# Instant Gemini Spark plugins. Featuring code-execution and scalable-architecture — optimized for maximum performance and efficiency.
 
 
 
